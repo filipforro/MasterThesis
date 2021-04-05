@@ -1,0 +1,24 @@
+# Created by .ignore support plugin (hsz.mobi)
+### JupyterNotebooks template
+# gitignore template for Jupyter Notebooks
+# website: http://jupyter.org/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# .idea
+.idea
+
+# Network Data
+Pyomo/
+MILP_v1/Input_Files/InputDataVreeswajk_v1.xlsx
+Pyomo/
+network/Input_Files/InputDataVreeswajk_v1.xlsx
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+
