@@ -18,6 +18,12 @@ Pyomo/
 MILP_v1/Input_Files/InputDataVreeswajk_v1.xlsx
 Pyomo/
 network/Input_Files/InputDataVreeswajk_v1.xlsx
+Pyomo/
+MILP_STEDIN/Input_Files/InputDataVreeswajk_v2.xlsx
+Pyomo/
+MILP_STEDIN/Input_Files/InputDataVreeswajk_v2_1d.xlsx
+Pyomo/
+follower/Input_Files/InputDataVreeswajk_v2_1d.xlsx
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
