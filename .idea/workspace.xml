@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5609972-e73c-47a6-bf8a-8b1f30a5706f" name="Default Changelist" comment="MonteCarlo statistical visualization">
+      <change afterPath="$PROJECT_DIR$/Pyomo/Final/Input_Files/InputDataVreeswajk_v3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyomo/Final/Input_Files/InputDataVreeswajk_v3_1d.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyomo/Final/MILP_v1_Stedin_BaseCase.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyomo/Final/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ipynb-0.5.1.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ipynb-0.5.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ipynb-0.5.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ipynb-0.5.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ipynb-0.5.1.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ipynb-0.5.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ipynb-0.5.1.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ipynb-0.5.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ipynb/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ipynb/fs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ipynb/fs/defs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ipynb/fs/finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ipynb/fs/full/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ipynb/setup/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ipynb/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pyomo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Pyomo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pyomo/MILP_v1/MILP_v6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Pyomo/MILP_v1/MILP_v6.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1opPLc7DsVfpLaDtYngcbgOwGTd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Pyomo/Final" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Filip Forro\PycharmProjects\MasterThesis\Pyomo\Final" />
+      <recent name="C:\Users\Filip Forro\PycharmProjects\MasterThesis\Pyomo" />
+      <recent name="C:\Users\Filip Forro\PycharmProjects\MasterThesis\Pyomo\MILP_STEDIN" />
+      <recent name="C:\Users\Filip Forro\PycharmProjects\MasterThesis\Pyomo\MILP_v1" />
+      <recent name="C:\Users\Filip Forro\PycharmProjects\MasterThesis\Pyomo\follower\Input_Files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Filip Forro\PycharmProjects\MasterThesis\Pyomo\Final" />
+      <recent name="C:\Users\Filip Forro\PycharmProjects\MasterThesis\Pyomo" />
+      <recent name="C:\Users\Filip Forro\PycharmProjects\MasterThesis\Pyomo\MILP_STEDIN" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MasterThesis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5609972-e73c-47a6-bf8a-8b1f30a5706f" name="Default Changelist" comment="" />
+      <created>1613980503880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613980503880</updated>
+      <workItem from="1613980507116" duration="818000" />
+      <workItem from="1613982029759" duration="10378000" />
+      <workItem from="1614066273762" duration="145000" />
+      <workItem from="1614153588488" duration="43853000" />
+      <workItem from="1614419587881" duration="930000" />
+      <workItem from="1614583923389" duration="1837000" />
+      <workItem from="1614586225750" duration="17099000" />
+      <workItem from="1614613300345" duration="9130000" />
+      <workItem from="1614762843502" duration="17342000" />
+      <workItem from="1615193700733" duration="2797000" />
+      <workItem from="1615196546225" duration="3769000" />
+      <workItem from="1615281598265" duration="45402000" />
+      <workItem from="1615536613778" duration="3946000" />
+      <workItem from="1615798367375" duration="17536000" />
+      <workItem from="1615887175143" duration="12141000" />
+      <workItem from="1616055822593" duration="114000" />
+      <workItem from="1616495517252" duration="6787000" />
+      <workItem from="1616506064062" duration="5064000" />
+      <workItem from="1616511733049" duration="245000" />
+      <workItem from="1616512017637" duration="3688000" />
+      <workItem from="1616572003157" duration="15827000" />
+      <workItem from="1616588403985" duration="27118000" />
+      <workItem from="1617091674995" duration="42918000" />
+      <workItem from="1617276270687" duration="16051000" />
+      <workItem from="1617365632003" duration="32000" />
+      <workItem from="1617613021985" duration="675000" />
+      <workItem from="1617613732266" duration="562000" />
+      <workItem from="1617614323195" duration="839000" />
+      <workItem from="1617615188342" duration="812000" />
+      <workItem from="1617616129649" duration="4399000" />
+      <workItem from="1617693248746" duration="8156000" />
+      <workItem from="1617707428602" duration="2677000" />
+      <workItem from="1617716779374" duration="4850000" />
+      <workItem from="1617721757201" duration="9345000" />
+      <workItem from="1617788809200" duration="3376000" />
+      <workItem from="1617793417324" duration="1754000" />
+      <workItem from="1617796434890" duration="741000" />
+      <workItem from="1617797900387" duration="14381000" />
+      <workItem from="1617970501250" duration="97000" />
+      <workItem from="1618166057907" duration="617000" />
+      <workItem from="1618221917996" duration="6346000" />
+      <workItem from="1618302227968" duration="5988000" />
+      <workItem from="1618382581832" duration="740000" />
+      <workItem from="1618403451973" duration="2746000" />
+      <workItem from="1618406823425" duration="336000" />
+      <workItem from="1618407192462" duration="1868000" />
+      <workItem from="1618471777203" duration="470000" />
+      <workItem from="1618472285539" duration="339000" />
+      <workItem from="1618472647854" duration="5451000" />
+      <workItem from="1618819426943" duration="1428000" />
+      <workItem from="1618830436083" duration="1096000" />
+      <workItem from="1618993445009" duration="143000" />
+      <workItem from="1619509266634" duration="73000" />
+      <workItem from="1619556024020" duration="138000" />
+      <workItem from="1619599977697" duration="169000" />
+      <workItem from="1619679313117" duration="117000" />
+      <workItem from="1619683757709" duration="68000" />
+      <workItem from="1619692685836" duration="605000" />
+      <workItem from="1620047195175" duration="84000" />
+      <workItem from="1620229257111" duration="61000" />
+      <workItem from="1620288671179" duration="10556000" />
+      <workItem from="1620377990830" duration="10265000" />
+      <workItem from="1620723595599" duration="14357000" />
+      <workItem from="1620805626966" duration="124000" />
+      <workItem from="1620808687834" duration="7855000" />
+      <workItem from="1620817548790" duration="4871000" />
+      <workItem from="1620825428682" duration="4152000" />
+      <workItem from="1620893029506" duration="3723000" />
+      <workItem from="1620896810999" duration="94000" />
+      <workItem from="1620896934718" duration="1540000" />
+      <workItem from="1620898505966" duration="359000" />
+      <workItem from="1620899119620" duration="11812000" />
+      <workItem from="1620977370235" duration="2364000" />
+      <workItem from="1620979982260" duration="12294000" />
+      <workItem from="1621160063666" duration="75000" />
+      <workItem from="1621324377898" duration="86000" />
+      <workItem from="1621367671744" duration="603000" />
+      <workItem from="1621414123081" duration="747000" />
+      <workItem from="1621414892607" duration="29000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1614586289859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614586289859</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added comment to test Push function of git">
+      <created>1614586617102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614586617102</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added CHECK LOSSES+DEMAND=SUPPLY">
+      <created>1614588481786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614588481786</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added visualization to the MILP version">
+      <created>1614605618643</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614605618643</updated>
+    </task>
+    <task id="LOCAL-00005" summary="No change">
+      <created>1614605753038</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614605753038</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Network plots">
+      <created>1614605824161</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614605824161</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Rename versions - version 0 is old version with errors, version 1 is working version">
+      <created>1614611947638</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614611947638</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Create more samples for the time multiplier (follow general load pattern)">
+      <created>1614674498871</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614674498871</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added inflexible load to 20% of maximum load and changed the maximum allowable block consumption to 1/4 of the maximum load. Now, the block sizes are independent of time and approximated load but are based on maximum consumption so user is not limited to how much he can consume. Pd_imt is set to 1/4 of the maximum allowable consumption which is constrained by the physical connection capacity (AGG(Pd)).">
+      <created>1614692852152</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614692852152</updated>
+    </task>
+    <task id="LOCAL-00010" summary="v2 is a new version (to keep working version of v1)">
+      <created>1614695676024</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614695676024</updated>
+    </task>
+    <task id="LOCAL-00011" summary="v2 added slack bus HV/MV power limit">
+      <created>1614696798595</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1614696798595</updated>
+    </task>
+    <task id="LOCAL-00012" summary="v2 added MV/LV trafo power limits">
+      <created>1614699697762</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1614699697762</updated>
+    </task>
+    <task id="LOCAL-00013" summary="v2 fixed some mistakes in the implementation of MV/LV trafo power limits">
+      <created>1614764925766</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1614764925766</updated>
+    </task>
+    <task id="LOCAL-00014" summary="v3 implements price constraint and demand response price decision variable of the upper level">
+      <created>1614783634501</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1614783634501</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Visualization added to v3 - price bandwidth and realized price for demand response">
+      <created>1614848613569</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1614848613569</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added new variables to the decision vectors">
+      <created>1614851629079</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1614851629079</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added new visualization">
+      <created>1614866386253</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1614866386253</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Implemented general calculation for big M method. M values are now based on current base = Sbase/Vbase">
+      <created>1615200173653</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1615200173653</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Testing chance-constrained programming for renewables (wind + PV)">
+      <created>1615283299052</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1615283299052</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Implemented random variable selection from weibull (wind speed) and beta distribution (irradiation) and some visualization of PDF and CDF">
+      <created>1615362931935</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1615362931935</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Implemented high level 2-level stage stochastic (probabilistic) modelling with monte carlo approach. First select random variable based on confidence factor and then drawing from distributions and test robustness of the solution">
+      <created>1615459118934</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1615459118934</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Confidence factor based random variable selection of wind and solar generation implemented into the MILP problem.">
+      <created>1615474995088</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1615474995088</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Monte Carlo working implementation.">
+      <created>1615823779786</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1615823779786</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Monte Carlo improvements:&#10;. visualization&#10;. fixed problems caused by numerical tolerance of the solver (sometimes, optimal solution is outside of defined domain). Value is set to 0 if abs(x) &lt; 10e-5) to allow Monte Carlo to execute the model.">
+      <created>1615901770064</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1615901770064</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Monte Carlo improvements:&#10;. speed of execution optimized">
+      <created>1615904626785</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1615904626785</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Monte Carlo improvements:&#10;. FIXES&#10;. changed MC solver to ipopt and removed conic relaxation to solve NLP power-flow">
+      <created>1616595846225</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1616595846225</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Monte Carlo improvements:&#10;. Added stochastic load behavior to MC considering a bi-variate normal PDF. Constant relationship between mean and variance -&gt; variance(t) = mean(t)/5">
+      <created>1616678700388</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1616678700388</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Stochastic load fixes&#10;. affine transformation of the multivariate normal using Cholesky decomposition to obtain P and Q. The correlation needs to be normalized by variance of Q">
+      <created>1617196804006</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1617196804006</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Stochastic load fixes&#10;. final fixes&#10;http://athenasc.com/Bivariate-Normal.pdf">
+      <created>1617200934518</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1617200934518</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Stochastic load fixes&#10;. final fixes&#10;http://athenasc.com/Bivariate-Normal.pdf">
+      <created>1617201212085</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1617201212085</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Implementation of stedin network">
+      <created>1617271803050</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1617271803050</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Implementation of stedin network">
+      <created>1617614588633</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1617614588633</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Implementation of stedin network">
+      <created>1617614868162</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1617614868162</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Implementation of stedin network">
+      <created>1617615292052</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1617615292052</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Implementation of stedin network">
+      <created>1617615814522</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1617615814522</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Implementation of stedin network">
+      <created>1617616443364</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1617616443364</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Set up .gitignore">
+      <created>1617617981965</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1617617981965</updated>
+    </task>
+    <task id="LOCAL-00038" summary="test_model_stedin_opoptPF is created to simulate classical nonlinear powerflow of the Stedin network. Can be initialized with different confidence factors (default 50% - neutral case considering expectation of RES)">
+      <created>1617703838640</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1617703838641</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Implementation of the MILP problem for Steding network">
+      <created>1617806793811</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1617806793811</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Bug fixes">
+      <created>1620294912703</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1620294912703</updated>
+    </task>
+    <task id="LOCAL-00041" summary="BaseCase and DetStoch scripts created for testing and results">
+      <created>1620724552695</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1620724552695</updated>
+    </task>
+    <task id="LOCAL-00042" summary="MonteCarlo statistical visualization">
+      <created>1620914814297</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1620914814297</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="v2 added MV/LV trafo power limits" />
+    <MESSAGE value="v2 fixed some mistakes in the implementation of MV/LV trafo power limits" />
+    <MESSAGE value="v3 implements price constraint and demand response price decision variable of the upper level" />
+    <MESSAGE value="Visualization added to v3 - price bandwidth and realized price for demand response" />
+    <MESSAGE value="added new variables to the decision vectors" />
+    <MESSAGE value="added new visualization" />
+    <MESSAGE value="Implemented general calculation for big M method. M values are now based on current base = Sbase/Vbase" />
+    <MESSAGE value="Testing chance-constrained programming for renewables (wind + PV)" />
+    <MESSAGE value="Implemented random variable selection from weibull (wind speed) and beta distribution (irradiation) and some visualization of PDF and CDF" />
+    <MESSAGE value="Implemented high level 2-level stage stochastic (probabilistic) modelling with monte carlo approach. First select random variable based on confidence factor and then drawing from distributions and test robustness of the solution" />
+    <MESSAGE value="Confidence factor based random variable selection of wind and solar generation implemented into the MILP problem." />
+    <MESSAGE value="Monte Carlo working implementation." />
+    <MESSAGE value="Monte Carlo improvements:&#10;. visualization&#10;. fixed problems caused by numerical tolerance of the solver (sometimes, optimal solution is outside of defined domain). Value is set to 0 if abs(x) &lt; 10e-5) to allow Monte Carlo to execute the model." />
+    <MESSAGE value="Monte Carlo improvements:&#10;. speed of execution optimized" />
+    <MESSAGE value="Monte Carlo improvements:&#10;. FIXES&#10;. changed MC solver to ipopt and removed conic relaxation to solve NLP power-flow" />
+    <MESSAGE value="Monte Carlo improvements:&#10;. Added stochastic load behavior to MC considering a bi-variate normal PDF. Constant relationship between mean and variance -&gt; variance(t) = mean(t)/5" />
+    <MESSAGE value="Stochastic load fixes&#10;. affine transformation of the multivariate normal using Cholesky decomposition to obtain P and Q. The correlation needs to be normalized by variance of Q" />
+    <MESSAGE value="Stochastic load fixes&#10;. final fixes&#10;http://athenasc.com/Bivariate-Normal.pdf" />
+    <MESSAGE value="Implementation of stedin network" />
+    <MESSAGE value="Set up .gitignore" />
+    <MESSAGE value="test_model_stedin_opoptPF is created to simulate classical nonlinear powerflow of the Stedin network. Can be initialized with different confidence factors (default 50% - neutral case considering expectation of RES)" />
+    <MESSAGE value="Implementation of the MILP problem for Steding network" />
+    <MESSAGE value="Bug fixes" />
+    <MESSAGE value="BaseCase and DetStoch scripts created for testing and results" />
+    <MESSAGE value="MonteCarlo statistical visualization" />
+    <option name="LAST_COMMIT_MESSAGE" value="MonteCarlo statistical visualization" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MasterThesis$main.coverage" NAME="main Coverage Results" MODIFIED="1617707459715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
