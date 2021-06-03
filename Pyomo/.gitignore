@@ -15,23 +15,11 @@ ipython_config.py
 
 # Network Data
 Pyomo/
-MILP_v1/Input_Files/InputDataVreeswajk_v1.xlsx
+MILP_v1/Input_Files/
 Pyomo/
-network/Input_Files/InputDataVreeswajk_v1.xlsx
+network/Input_Files/
 Pyomo/
-MILP_STEDIN/Input_Files/InputDataVreeswajk_v2.xlsx
-Pyomo/
-MILP_STEDIN/Input_Files/InputDataVreeswajk_v2_1d.xlsx
-Pyomo/
-MILP_STEDIN/Input_Files/InputDataVreeswajk_v3.xlsx
-Pyomo/
-MILP_STEDIN/Input_Files/InputDataVreeswajk_v3_1d.xlsx
-Pyomo/
-follower/Input_Files/InputDataVreeswajk_v2_1d.xlsx
-Pyomo/
-Final/Input_Files/InputDataVreeswajk_v3.xlsx
-Pyomo/
-Final/Input_Files/InputDataVreeswajk_v3_1d.xlsx
+follower/Input_Files/
 Pyomo/
 Final/Input_Files/
 Pyomo/
